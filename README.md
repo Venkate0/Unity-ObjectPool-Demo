@@ -2,8 +2,6 @@
 
 A small, complete top-down shooter built to demonstrate **production-quality object pooling** in Unity — a generic, pre-warmed, hard-capped `ObjectPool<T>` with live statistics, driven by a wave-based enemy demo scene.
 
-Built with C# and Unity 2022.3 LTS (works on any 2021.3+ editor — Unity will offer to upgrade the project on open).
-
 ---
 
 ## What This Demonstrates
