@@ -62,6 +62,11 @@ Built with C# and Unity 2022.3 LTS (works on any 2021.3+ editor — Unity will o
 | **Left Mouse Button** (hold) | Shoot |
 | **R** | Reset — return all pooled objects, restart at wave 1, re-center player |
 | **F1** | Toggle the pool stats / FPS overlay |
+---
+
+##GamePlay
+
+https://github.com/user-attachments/assets/e9c019d9-3e7d-4813-8314-49170065296a
 
 ---
 
